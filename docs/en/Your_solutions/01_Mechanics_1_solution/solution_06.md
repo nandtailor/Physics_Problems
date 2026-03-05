@@ -1,4 +1,4 @@
-# Problem 6: Variable Velocity (Step-by-step)
+# Problem 6: Variable Velocity
 
 We are given the velocity function $v(t)=t^2+2t-5$ and the initial position $x(0)=4$.
 
@@ -9,7 +9,7 @@ We want:
 
 ---
 
-## 1) Position from velocity
+## 1) Position from velocity theory
 
 Velocity is the derivative of position:
 
@@ -64,7 +64,6 @@ x(3)=\frac{3^3}{3}+3^2-5\cdot 3+4
 $$
 
 Compute:
-
 $$
 9+9=18,\qquad 18-15=3,\qquad 3+4=7
 $$
