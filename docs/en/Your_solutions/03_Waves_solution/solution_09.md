@@ -1,4 +1,3 @@
----
 
 ### 1. General Solution and Classification of Cases
 
