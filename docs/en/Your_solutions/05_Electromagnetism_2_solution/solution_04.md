@@ -12,7 +12,6 @@ $$A = 0.1 \times 0.05 = 0.005\text{ m}^2$$
 
 ### **Step 2: Finding the Correct Angle ($\theta$)**
 
-This is the most critical step to explain to your professor:
 The problem states that the magnetic field is **parallel to the plane** of the loop. However, in the torque formula, the angle $\theta$ is measured between the magnetic field and the **Area Vector** (a line pointing completely perpendicular, or exactly 90 degrees, away from the surface of the loop).
 
 Because the magnetic field runs parallel to the surface, it forms a perfect 90-degree angle with the perpendicular Area Vector.
